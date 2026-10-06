@@ -1,0 +1,24 @@
+{
+  "name": "deploy_code_production",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/prajwalthakur-cs/Backend_journey#readme",
+  "bugs": {
+    "url": "https://github.com/prajwalthakur-cs/Backend_journey/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwalthakur-cs/Backend_journey.git"
+  },
+  "license": "ISC",
+  "author": "Prajwal Thakur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  }
+}
